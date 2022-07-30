@@ -1,0 +1,18 @@
+﻿  ECamera.cpp
+  ERenderer.cpp
+  ETimer.cpp
+  main.cpp
+  Parser.cpp
+  Texture.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 746 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rasterizer.vcxproj -> D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRAS_Lucy_Lesire_NL\SOURCE\bin\Release\Rasterizer.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
